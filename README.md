@@ -19,7 +19,7 @@ TUM Computer Vision Challenge Repo for Matlab 3D reconstruction SS2024
 
 # Code references
 - [Recommand Matlab implementation](https://github.com/zhaqh-github/CV_Tour_Into_Image)
-- [Reconmmand Matlab implementation](https://github.com/GHLgh/Single-View-3D-Reconstruction)
+- [Recommand Matlab implementation](https://github.com/GHLgh/Single-View-3D-Reconstruction)
 - [JS implementation](https://github.com/yli262/tour-into-the-picture)
 - [C++ implementation](https://github.com/kc885/Tour-Into-The-Picture)
 

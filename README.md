@@ -51,7 +51,6 @@ Please check if your selection is correct. If it is not correct, you are free to
 #### Save Current view
 ![4.3](./assets/4.3_save.png)
 
-
 # References
 [1] Zhiqing Cao, Xin Sun, and Jiaoying Shi.
 Tour into the picture using relative depth calculation.

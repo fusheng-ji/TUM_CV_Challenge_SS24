@@ -1,5 +1,5 @@
 function foreground_3D(app)
-    % foreground_3D.m calculates the 3D coordinates of the foreground
+    % Usage: calculates the 3D coordinates of the foreground
     % Inputs:
     % user selected 4 2D point of the foreground
 

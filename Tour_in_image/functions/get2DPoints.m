@@ -1,6 +1,6 @@
 
 function get2DPoints(app)
-    % get2DPoints.m calculates the 2D coordinates of 13 points
+    % Usage: calculates the 2D coordinates of 13 points
     % Inputs:
     % user selected vanishing point and 4 points at the ear wall
 
@@ -55,28 +55,6 @@ function get2DPoints(app)
     app.points_2d(5,2) = round(find_line_y(app.VP(1),app.VP(2),app.points_2d(1,1),app.points_2d(1,2), app.points_2d(5,1) ));
 
 
-
-    %     %%% for test, don't delete, comment out if you don't need the
-
-%     top_bottomPoints = [app.points_2d(9,:); app.points_2d(10,:); app.points_2d(3,:); app.points_2d(4,:)];
-%     left_rightPoints = [app.points_2d(11,:); app.points_2d(12,:); app.points_2d(5,:); app.points_2d(6,:)];
-% 
-%     figure(1);
-%     imshow(big_im);
-% 
-%     hold on;
-% 
-%     plot(app.VP(1), app.VP(2),'w*');
-%     plot([ceilrx ceilrx(1)], [ceilry ceilry(1)], 'y-');
-%     plot([floorrx floorrx(1)], [floorry floorry(1)], 'm-');
-%     plot([leftrx leftrx(1)], [leftry leftry(1)], 'c-');
-%     plot([rightrx rightrx(1)], [rightry rightry(1)], 'g-');
-% 
-%     plot(top_bottomPoints(:,1),top_bottomPoints(:,2), 'r*','MarkerSize',15);
-%     plot(left_rightPoints(:,1),left_rightPoints(:,2),'g*','MarkerSize',15);
-% 
-%     hold off;
-    %%% test ends
 
 end
 

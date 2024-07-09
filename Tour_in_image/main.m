@@ -1,2 +1,2 @@
-% This function is just to start the Start_GUI.
+% Usage: Call Start_GUI.
 Start_GUI

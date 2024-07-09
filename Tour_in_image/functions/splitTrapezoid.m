@@ -1,5 +1,5 @@
 function Trapezoid = splitTrapezoid (img, p1, p2, p3, p4)
-    % splitTrapezoid.m Cut the image to the specified shape and keep the original size.
+    % Usage: Cut the image to the specified shape and keep the original size.
     % Inputs:
     % img: Image to be cutted
     % Upper left point: p1

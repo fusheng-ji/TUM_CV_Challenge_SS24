@@ -1,5 +1,5 @@
 function result = getNewTrapezoid(cases, img, p1, p2, p3, p4, p1_new, p2_new, p3_new, p4_new, judgePts1, judgePts2, judgePts3, judgePts4)
-    % getNewTrapezoid.m Convert a trapezoid image to a specified shape
+    % Usage: Convert a trapezoid image to a specified shape
     % Inputs:
     % cases: 'fc' floor and ceil, 'lr' left and right wall, 'f' rearwall
     % and foreground.

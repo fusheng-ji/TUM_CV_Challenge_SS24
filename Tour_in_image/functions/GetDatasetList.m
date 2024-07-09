@@ -1,5 +1,5 @@
 function GetDatasetList(app)
-    % get the dir information
+    % Usage: get the dir information
     if app.DEBUG_MODE
         app.image_path = './dataset';
     else

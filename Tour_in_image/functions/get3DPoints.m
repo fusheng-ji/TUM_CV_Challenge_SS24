@@ -1,5 +1,5 @@
 function get3DPoints(app)
-    % get3DPoints.m calculates the 3D coordinates of 13 points
+    % Usage: calculates the 3D coordinates of 13 points
     % Inputs:
     % 2D coordinates of 13 points
 

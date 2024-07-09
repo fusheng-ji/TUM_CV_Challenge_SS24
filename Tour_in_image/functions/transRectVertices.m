@@ -1,5 +1,5 @@
 function [transRectVerticesCoord_pix, transRectVerticesCoord_pix_judge] = transRectVertices(app)
-% calculate pixel coordinates of new vertices after transformation
+% calculate each pixel coordinate of new vertices after transformation
 
     points_3d = app.points_3d;
     CameraMatrix = app.CameraMatrix;

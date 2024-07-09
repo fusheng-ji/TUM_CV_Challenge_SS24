@@ -3,7 +3,7 @@
 
   <p align="center"><a href="https://fusheng-ji.github.io"> Wenbo Ji</a> | <a href="https://github.com/DJX2024"> Xiang Ji</a> | <a href="https://github.com/hongru88"> Hongru Li</a>  | <a href="https://yuming1227.github.io/"> Yuming Li</a>  | <a href="https://github.com/shilinzhang42"> Shilin Zhang</a> </p>
   <p align="center">Group 31</p>
-  <p align="center"><a href="https://fusheng-ji.github.io/tum_cv_challenge_ss24/index.html">Project Page</a></p>
+  <p align="center"><a href="https://fusheng-ji.github.io/tum_cv_challenge_ss24/index.html">Project Page</a> | <a href="https://github.com/fusheng-ji/TUM_CV_Challenge_SS24/tree/main/assets/TUM_CV_Challenge_SS24.pdf">Poster</a></p>
   <p align="center">TUM Computer Vision Challenge for Matlab 3D reconstruction SS2024</p>
 
 ## Course Information
@@ -19,6 +19,9 @@
 - get in to 'Tour_in_image' dir
 - Click 'Start_GUI.mlapp' to run demo directly or run 'main.m' with matlab
 
+### Project Structure
+
+![algorithm](./assets/algorithm.png)
 ### Wellcome Page
 In this page we explain the usage of our live demo and references of our method. 
 

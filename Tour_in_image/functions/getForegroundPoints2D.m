@@ -1,6 +1,6 @@
 
 function  FG_points_2d = getForegroundPoints2D(app, FG_3d)
-% getForegroundPoints2D.m uses getFg3D.m and the parameter app.K_trans
+% Usage: uses getFg3D.m and the parameter app.K_trans
 % /////////////////////////////////////////////////////////////
 % FG_p1,FG_p2,FG_p3,FG_p4 Pixel coordinates of four Foreground points
 

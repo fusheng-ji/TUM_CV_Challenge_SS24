@@ -1,5 +1,5 @@
 function getTransCoordinates2D(app)
-% calculate pixel coordinates of vertices after transformation
+% calculate each pixel coordinate of vertices after transformation
 % used to stretch image
     cameraMatrix = getKaliMatrix(app);
     K_trans = getTransMatrix(app, cameraMatrix);

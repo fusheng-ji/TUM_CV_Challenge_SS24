@@ -1,5 +1,5 @@
 function [x,y] = find_corner(vx,vy,rx,ry,limitx,limity)
-    % given a line thru (vx,vy) and (rx,ry), find where it should end given the
+    % Usage: given a line thru (vx,vy) and (rx,ry), find where it should end given the
     % image edges limitx and limity
     y1 = limity;
     x1 = find_line_x(vx,vy,rx,ry,limity);
